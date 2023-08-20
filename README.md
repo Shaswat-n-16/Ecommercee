@@ -30,20 +30,6 @@ This project was built using the following technologies:
 5) Deployed on AWS E3 and Vercel Serverless platform
 
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1) Clone the repository: git clone https://github.com/thejediboySHASHANK/Artistick.git
-
-```bash
-# 2) Install the necessary dependencies:
-npm install
-# 3) Start the development server: 
-npm start
-```
-
-
 
 ## Contribution 
 
@@ -51,4 +37,4 @@ Contributions to this project are always welcome. If you find a bug, or have an 
 
 ## Contact 
 
-If you have any questions or feedback, feel free to contact us at shasnk2267@gmail.com. We'd love to hear from you!
+If you have any questions or feedback, feel free to contact us at 7352909151  We'd love to hear from you!
